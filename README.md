@@ -19,6 +19,8 @@ Being that this was my first CTF, the objective was simple: learn as much as pos
 - Elevated documentation comprehension
 - Better understanding of traffic/communications within Wireshark
 - Decryption of data to discover vital information
+- Digital Forensics
+- Static and Dynamic Code Analysis
 - Overall heightened analytical skills to uncover subjectively difficult answers
 
 ### Tools Used
